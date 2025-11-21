@@ -1,3 +1,9 @@
 body {
-    background-color: rgb(143, 55, 55)
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav a {
+    color: black;
 }
